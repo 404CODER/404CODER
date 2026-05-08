@@ -70,3 +70,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=404CODER&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+<h3 align="center">
+  Thanks for visiting my profile ❤️
+</h3>
+
+<p align="center">
+  <i>Building • Learning • Growing 🚀</i>
+</p>
