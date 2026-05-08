@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;Frontend+Learner;AI+Enthusiast;Pianist+🎹" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Gautam Magubari</h1>
 
 <h3 align="center">💻 Passionate Web Developer from India 🇮🇳</h3>
@@ -37,7 +41,9 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404CODER&layout=compact&theme=tokyonight" height="170"/>
 </p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=404CODER&theme=tokyonight" />
+</p>
 ---
 
 ## 🌐 Connect With Me
@@ -59,4 +65,7 @@
 
 <p align="center">
   ⭐ <i>"Code. Create. Innovate."</i> ⭐
+</p> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=404CODER&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
