@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;Frontend+Learner;AI+Enthusiast;Pianist+🎹" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Passionate+Web+Developer;Building+Modern+Web+Experiences;Learning+Full+Stack+Development;Exploring+AI+%26+Creative+Tech;Pianist+%F0%9F%8E%B9+%7C+Developer+%F0%9F%92%BB" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Gautam Magubari</h1>
