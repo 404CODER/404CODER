@@ -10,7 +10,6 @@
   🚀 Building modern websites & creative projects <br>
   🌱 Currently learning Full Stack Web Development <br>
   🤖 Exploring AI, Tech & Open Source <br>
-  🎹 Pianist | Music Enthusiast <br>
   ⚡ Turning ideas into reality through code
 </p>
 
