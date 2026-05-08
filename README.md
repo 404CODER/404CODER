@@ -14,7 +14,7 @@
   ⚡ Turning ideas into reality through code
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-d0d0b0e7-6f59-4f5d-9b61-4e8f3f8d7b3f.gif">
 
 ## 🧑‍💻 About Me
 
@@ -24,7 +24,7 @@
 - 🎯 Goal: Become a skilled Full Stack Developer  
 - 🎵 Fun fact: I code better with music 🎧
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-d0d0b0e7-6f59-4f5d-9b61-4e8f3f8d7b3f.gif">
 
 ## 🚀 Tech Stack
 
@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-d0d0b0e7-6f59-4f5d-9b61-4e8f3f8d7b3f.gif">
 
 ## 📊 GitHub Stats
 
@@ -45,7 +45,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=404CODER&theme=tokyonight" />
 </p>
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-d0d0b0e7-6f59-4f5d-9b61-4e8f3f8d7b3f.gif">
 
 ## 🌐 Connect With Me
 
@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-d0d0b0e7-6f59-4f5d-9b61-4e8f3f8d7b3f.gif">
 
 <p align="center">
   ⭐ <i>"Code. Create. Innovate."</i> ⭐
